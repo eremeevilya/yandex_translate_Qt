@@ -52,7 +52,7 @@ private:
     // URL для получения списка языков
     const QString str_url_list_lang = "https://translate.yandex.net/api/v1.5/tr.json/getLangs";
     // ключ яндкс API
-    const QString key = "trnsl.1.1.20180806T132531Z.fdb0c73c6677e0ef.1b95e9437c7a549dd517db761dfd0a9ec58a5dc2";
+    const QString key = "key close";
 };
 
 #endif // NETWORK_TRANSLATE_H
